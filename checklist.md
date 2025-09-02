@@ -1,6 +1,6 @@
 # My checklist.  
 
-![My avatar](./My_avatar_kkkk.png)
+![My avatar](./My_avatar.png)
 
 - [x] Зарегаться на GitHub.  
 - [x] Создать первый репозиторий.
@@ -33,6 +33,7 @@
 - [ ] Изучить [Daily Standup Meetings](https://github.com/atls/dsm/blob/master/README.md)
 
 [В какой репозиторий или папку писать с #issues?]
+
 
 
 
