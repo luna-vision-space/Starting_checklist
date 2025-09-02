@@ -1,5 +1,7 @@
 # My checklist.  
 
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+
 - [x] Зарегаться на GitHub.  
 - [x] Создать первый репозиторий.
   
@@ -20,7 +22,7 @@
 - [ ] `hsl(212, 92%, 45%)`
 - [ ] `#0969DA`
 - [ ] `#ff0000`
-- [ ] ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+
 
 ## Следующие шаги.
 - [ ] Попробовать сделать коммит через Desktop/VS Code
@@ -31,4 +33,5 @@
 - [ ] Изучить [Daily Standup Meetings](https://github.com/atls/dsm/blob/master/README.md)
 
 [В какой репозиторий или папку писать с #issues?]
+
 
