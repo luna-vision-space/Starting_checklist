@@ -1,4 +1,4 @@
-# my checklist  
+# My checklist  
 
 - [x] Зарегаться на GitHub.  
 - [x] Создать первый репозиторий.  
