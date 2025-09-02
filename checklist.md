@@ -33,7 +33,8 @@
 - [ ] `hsl(212, 92%, 45%)`
 - [ ] `#0969DA` [пока не поняла где и как работает]
 - [x] simple footnote[^1]
-- [ ]
+- [x] Научиться использовать адмонитионы (NOTE, TIP, IMPORTANT, WARNING, CAUTION)  
+
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
@@ -63,6 +64,7 @@
 [В какой репозиторий или папку писать с #issues?]  
 
 ··· ✦ ✦ ✦ ···    
+
 
 
 
